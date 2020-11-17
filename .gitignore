@@ -1,0 +1,7 @@
+JPEGImages/
+ImageSets/
+Annotations/
+*/__pycache__
+**/*.h5
+*/venv/
+*/.idea/
